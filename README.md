@@ -54,4 +54,4 @@ This project presents a detailed analysis of sales transaction data to evaluate 
 #### ✅ **Conclusion**
 
 The project demonstrates strong business performance growth during 2015–2016 but exposes structural issues in pricing and profit management. Implementing targeted pricing strategies and cross-selling initiatives can significantly enhance overall profitability.
-
+![Image](https://github.com/ramyaa0805/Economic-Data-Analysis-/blob/ce0e45173962e75dd1b282abdfc87101d4743c04/WhatsApp%20Image%202025-10-05%20at%2012.19.06_108eec24.jpg)
