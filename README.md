@@ -1,5 +1,4 @@
 # Economic-Data-Analysis-
-Economic Data Analysis Description
 
 ### 🧾 **Project Title:** Economic Data Analysis
 
@@ -55,3 +54,4 @@ This project presents a detailed analysis of sales transaction data to evaluate 
 #### ✅ **Conclusion**
 
 The project demonstrates strong business performance growth during 2015–2016 but exposes structural issues in pricing and profit management. Implementing targeted pricing strategies and cross-selling initiatives can significantly enhance overall profitability.
+
